@@ -1,8 +1,8 @@
 class NdateAT04 < Formula
   desc "Date format to console"
-  homepage "https://github.com/JonDotsoy/ndate/tree/morgan-v0.4.0-morgan#readme"
-  url "https://github.com/JonDotsoy/ndate/archive/refs/tags/morgan-v0.4.0-morgan.tar.gz"
-  sha256 "1576b578b70f0d20e0aa7cfef107f7bbeba30f5200f318bdfa8963a41f55c402"
+  homepage "https://github.com/JonDotsoy/ndate/tree/morgan-v0.4.1#readme"
+  url "https://github.com/JonDotsoy/ndate/archive/refs/tags/morgan-v0.4.1.tar.gz"
+  sha256 "f05656c580abd17f5ff590500a01cc2b717732ac6f463a8ba1ee7335b02f2b8c"
   license "MIT"
 
   depends_on "deno"
